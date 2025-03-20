@@ -69,7 +69,7 @@ Follow the instructions in `DATA/obtain_data`
 ### Step 4: Run Scripts in Order
 #### 1. ADF Test
 Run `adf.R`
-#### 2. ANOVA
-Run `anova.ipynb`
+#### 2. ARIMA model
+Run `arima.ipynb`
 
 ### Step 5: View Resulting Visualizations in `OUTPUT`
