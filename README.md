@@ -7,7 +7,7 @@
 **Members:** Christine Tsai (leader), Ben Harris, Vance Newsome
 
 ## Project Overview
-
+This project compares the effectiveness of different time series modeling techniques in detecting anomalies in system log data that indicate potential DDOS attacks.
 
 ## Contents of the Repository
 - `README.md` - Overview of the project and instructions for replication.
@@ -38,11 +38,11 @@
 
 ├── SCRIPTS/
 
-
+│   ├── 
 
 ├── DATA/
 
-
+│   ├── data_appendix.pdf # describes dataset
 
 ├── OUTPUT/
 
