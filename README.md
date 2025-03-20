@@ -38,7 +38,9 @@ This project compares the effectiveness of different time series modeling techni
 
 ├── SCRIPTS/
 
-│   ├── anova.ipynb # ANOVA model
+│   ├── anova.ipynb # ANOVA
+
+│   ├── adf.R # Augmented Dicky-Fuller Test for Stationarity (assumption for ARIMA)
 
 ├── DATA/
 
@@ -65,5 +67,9 @@ Install tidyverse package
 ### Step 3: Obtain and Clean Raw Data 
 Follow the instructions in `DATA/obtain_data`
 ### Step 4: Run Scripts in Order
+#### 1. ADF Test
+Run `adf.R`
+#### 2. ANOVA
+Run `anova.ipynb`
 
 ### Step 5: View Resulting Visualizations in `OUTPUT`
