@@ -33,3 +33,7 @@ for (file in names(adf_results)) {
 }
 
 adf_results_table <- bind_rows(adf_results_list)
+# Results show that all ADF test statistics are below the critical value at 5% confidence level. 
+# This allows us to reject the null hypothesis and conclude that the time series data is stationary.
+# Stationarity is a necessary assumption for ARIMA, and we can procede without differencing.
+
