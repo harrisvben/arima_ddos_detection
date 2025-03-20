@@ -38,9 +38,9 @@ This project compares the effectiveness of different time series modeling techni
 
 ├── SCRIPTS/
 
-│   ├── anova.ipynb # ANOVA
-
 │   ├── adf.R # Augmented Dicky-Fuller Test for Stationarity (assumption for ARIMA)
+
+│   ├── arima.ipynb # create ARIMA model
 
 ├── DATA/
 
