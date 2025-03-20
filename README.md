@@ -38,11 +38,17 @@ This project compares the effectiveness of different time series modeling techni
 
 ├── SCRIPTS/
 
-│   ├── 
+│   ├── anova.ipynb # ANOVA model
 
 ├── DATA/
 
 │   ├── data_appendix.pdf # describes dataset
+
+│   ├── ec2_cpu_utilization_53ea38.csv # raw CPU utilization data
+
+│   ├── ec2_network_in_5abac7.csv # raw inbound network traffic data
+
+│   ├── elb_request_count_8c0756.csv # raw request count data
 
 ├── OUTPUT/
 
