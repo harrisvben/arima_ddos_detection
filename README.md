@@ -50,8 +50,6 @@ This project compares the effectiveness of different time series modeling techni
 
 │   ├── autoencoder.ipynb # create Autoencoder machine learning model
 
-│   ├── prophet.ipynb #
-
 ├── DATA/
 
 │   ├── data_appendix.pdf # describes dataset
