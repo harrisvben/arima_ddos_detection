@@ -48,7 +48,9 @@ This project compares the effectiveness of different time series modeling techni
 
 │   ├── arima-testing-and-notes.ipynb # testing and notes for ARIMA models
 
-│   ├── prophet.ipynb
+│   ├── autoencoder.ipynb # create Autoencoder machine learning model
+
+│   ├── prophet.ipynb #
 
 ├── DATA/
 
@@ -77,11 +79,12 @@ Install the required packages (list above)
 #### R
 Install tidyverse package
 ### Step 3: Obtain and Clean Raw Data 
-Follow the instructions in `DATA/obtain_data`
+Data source: https://github.com/numenta/NAB/tree/master/data/realAWSCloudwatch
 ### Step 4: Run Scripts in Order
 #### 1. ADF Test
 Run `adf.R`
-#### 2. ARIMA model
-Run `arima.ipynb`
-
+#### 2. Create ARIMA model
+Run `arima-cpu-util.ipynb`, `arima-network-in.ipynb`, and `arima-request-count.ipynb`
+#### 3. Create Autoencoder machine learning model
+Run `autoencoder.ipynb`
 ### Step 5: View Resulting Visualizations in `OUTPUT`
