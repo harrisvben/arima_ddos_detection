@@ -62,7 +62,11 @@ This project compares the effectiveness of different time series modeling techni
 
 ├── OUTPUT/
 
+│   ├── cpu-util-plot.png # anomaly detection plot for EC2 CPU Utilization data
 
+│   ├── net-in-plot.png # anomaly detection plot for EC2 Network In data
+
+│   ├── req-count-plot.png # anomaly detection plot for ELB Request Count data
 
 
 ## Instructions for Reproduction
