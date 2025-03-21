@@ -25,6 +25,8 @@ This project compares the effectiveness of different time series modeling techni
 - `pandas` (data manipulation)
 - `numpy` (numerical operations)
 - `matplotlib` (visualization)
+- `statsmodels` (statistical model)
+- `joblib` (parallel computing for calculating min AIC)
 
 #### R:
 - `tidyverse` (data manipulation and visualization)
