@@ -40,7 +40,15 @@ This project compares the effectiveness of different time series modeling techni
 
 │   ├── adf.R # Augmented Dicky-Fuller Test for Stationarity (assumption for ARIMA)
 
-│   ├── arima.ipynb # create ARIMA model
+│   ├── arima-cpu-util.ipynb # create ARIMA model for EC2 CPU Utilization data
+
+│   ├── arima-network-in.ipynb # create ARIMA model for EC2 Network In data
+
+│   ├── arima-request-count.ipynb # create ARIMA model for ELB Request Count data
+
+│   ├── arima-testing-and-notes.ipynb # testing and notes for ARIMA models
+
+│   ├── prophet.ipynb
 
 ├── DATA/
 
