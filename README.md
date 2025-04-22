@@ -1,4 +1,4 @@
-# Case Study: Evaluating Models for Anomaly Detection in DDoS Attacks
+# Case Study: ARIMA for Anomaly Detection in DDoS Attacks
 
 **DS 4002: Prototyping**
 
