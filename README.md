@@ -66,4 +66,10 @@ Data source: https://github.com/numenta/NAB/tree/master/data/realAWSCloudwatch
 Run `adf.R`
 #### 2. Create ARIMA model
 Run `arima-cpu-util.ipynb`, `arima-network-in.ipynb`, and `arima-request-count.ipynb`
-#### 3. Compare Results
+#### 3. Compare Results and Produce Deliverables
+
+## Deliverables
+### 1. Exploratory Data Analysis
+Take a look at the data source and create a document outlining each server metric. Generate 5 number statistics and plot the values over time.
+### 2. 
+
