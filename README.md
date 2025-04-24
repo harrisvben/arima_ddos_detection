@@ -36,6 +36,10 @@ This case study guides students through building and evaluating ARIMA models for
 
 ├── LICENSE.md
 
+├── HOOK_DOCUMENT.pdf
+
+├── RUBRIC.pdf
+
 ├── CODE/
 
 │   ├── adf.R # Augmented Dicky-Fuller Test for Stationarity (assumption for ARIMA)
@@ -56,13 +60,11 @@ This case study guides students through building and evaluating ARIMA models for
 
 ├── ARTICLES/
 
-│   ├── TIME_ARTICLE.pdf - highly relevant news story showing the dangers of DDoS attacks
-
 │   ├── ARIMA_ARTICLE.pdf - technical article detailing how to create an ARIMA model
 
 │   ├── AWS_ARTICLE.pdf - Amazon CloudWatch documentation to provide details on the server metrics
 
-
+│   ├── TIME_ARTICLE.pdf - highly relevant news story showing the dangers of DDoS attacks
 
 
 ## Instructions for Reproduction
