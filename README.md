@@ -10,8 +10,9 @@ This case study guides students through building and evaluating ARIMA models for
 - `LICENSE.md` - Specifies the terms of use for this repository.
 - `CODE/` - Contains Python and R scripts for data cleaning and analysis.
 - `DATA/` - Contains raw and cleaned datasets.
-- `HOOK DOCUMENT.pdf` - Provides context and a wide view of the goal of this case study.
+- `HOOK_DOCUMENT.pdf` - Provides context and a wide view of the goal of this case study.
 - `RUBRIC.pdf` - Outlines the deliverables to be completed and specific details of this case study.
+- `ARTICLES` - Contains articles to provide context and technical details.
 
 ## Software and Platform
 ### Software Used
@@ -52,6 +53,15 @@ This case study guides students through building and evaluating ARIMA models for
 │   ├── ec2_network_in_5abac7.csv # raw inbound network traffic data
 
 │   ├── elb_request_count_8c0756.csv # raw request count data
+
+├── ARTICLES/
+
+│   ├── TIME_ARTICLE.pdf - highly relevant news story showing the dangers of DDoS attacks
+
+│   ├── ARIMA_ARTICLE.pdf - technical article detailing how to create an ARIMA model
+
+│   ├── AWS_ARTICLE.pdf - Amazon CloudWatch documentation to provide details on the server metrics
+
 
 
 
