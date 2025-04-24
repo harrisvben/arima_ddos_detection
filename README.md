@@ -3,6 +3,7 @@
 **DS 4002: Prototyping**
 
 ## Case Study Overview
+This case study guides students through building and evaluating ARIMA models for detecting anomalies in server performance metrics, using real AWS CloudWatch data to find early warnings of DDoS attacks.
 
 ## Contents of the Repository
 - `README.md` - Overview of the project and instructions for replication.
@@ -59,8 +60,9 @@
 Install the required packages (list above)
 #### R
 Install tidyverse package
-### Step 3: Obtain and Clean Raw Data 
+### Step 3: Obtain Raw Data
 Data source: https://github.com/numenta/NAB/tree/master/data/realAWSCloudwatch
+All necessary data is provided in `DATA/`
 ### Step 4: Run Scripts in Order
 #### 1. ADF Test
 Run `adf.R`
@@ -70,6 +72,6 @@ Run `arima-cpu-util.ipynb`, `arima-network-in.ipynb`, and `arima-request-count.i
 
 ## Deliverables
 ### 1. Exploratory Data Analysis
-Take a look at the data source and create a document outlining each server metric. Generate 5 number statistics and plot the values over time.
-### 2. 
+### 2. Assumption Testing
+### 3. ARIMA Model
 
