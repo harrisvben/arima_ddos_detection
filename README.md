@@ -10,6 +10,8 @@ This case study guides students through building and evaluating ARIMA models for
 - `LICENSE.md` - Specifies the terms of use for this repository.
 - `CODE/` - Contains Python and R scripts for data cleaning and analysis.
 - `DATA/` - Contains raw and cleaned datasets.
+- `HOOK DOCUMENT.pdf` - Provides context and a wide view of the goal of this case study.
+- `RUBRIC.pdf` - Outlines the deliverables to be completed and specific details of this case study.
 
 ## Software and Platform
 ### Software Used
