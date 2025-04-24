@@ -42,11 +42,7 @@
 
 │   ├── arima-request-count.ipynb # create ARIMA model for ELB Request Count data
 
-│   ├── arima-testing-and-notes.ipynb # testing and notes for ARIMA models
-
 ├── DATA/
-
-│   ├── data_appendix.pdf # describes dataset
 
 │   ├── ec2_cpu_utilization_53ea38.csv # raw CPU utilization data
 
